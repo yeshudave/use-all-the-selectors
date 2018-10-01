@@ -18,7 +18,7 @@ header, footer {
   background-color: #eee8d5;
 }
 
-#contents, #favs, #facts, #types{
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
@@ -34,7 +34,7 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-.no-highlight {
+[rel="external"] {
   background-color: #2694d8;
 }
 
