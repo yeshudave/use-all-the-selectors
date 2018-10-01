@@ -1,20 +1,20 @@
-body{
+body {
   background-color: #fdf6e3;
 }
 
-header, footer{
+header, footer {
   font-size: 1.5rem;
 }
 
-.no-highlight{
+.no-highlight {
   font-family: sans-serif;
 }
 
-.logo{
+.logo {
   text-transform: uppercase;
 }
 
-.wrapper{
+.wrapper {
   background-color: #eee8d5;
 }
 
@@ -22,11 +22,11 @@ header, footer{
   color: #93a1a1;
 }
 
-.dfn > .wrapper{
+.dfn > .wrapper {
   background-color: #b58900;
 }
 
-strong + .dfn{
+strong + .dfn {
   color: #fff;
 }
 
@@ -34,7 +34,7 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-href.no-highlight{
+.no-highlight {
   background-color: #2694d8;
 }
 
@@ -42,18 +42,18 @@ ol li:first-child {
   color: #719e47;
 }
 
-ol li:last-child{
+ol li:last-child {
   color: #2aa198;
 }
 
-.types li:nth-child(odd){
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-.types li:nth-child(even){
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
-.types li:nth-child(3n){
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
